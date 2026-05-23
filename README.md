@@ -1,4 +1,4 @@
-# Fe₂O₃ Stepwise Kinetics — Coupled Inverse PINN and SINDy
+# Fe₂O₃ Kinetics — Coupled Inverse PINN and SINDy
 
 Data-driven discovery of Fe₂O₃ reduction kinetics using a coupled
 Inverse Physics-Informed Neural Network (PINN) and SINDy (Sparse
