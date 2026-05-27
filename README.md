@@ -103,7 +103,11 @@ the coupled iterative pipeline (panels a–e).
 `pinn_sindy_v3.tex` — LaTeX/TikZ source for the schematic.
 
 ---
+## Citation
 
+If you use this code or data, please cite:
+Kiran Thammina. Data-Driven Discovery of Reaction Kinetics for Fe2O3 Reduction: A Coupled Inverse PINN and SINDy Approach. ChemRxiv. 26 May 2026.
+DOI: https://doi.org/10.26434/chemrxiv.15003923/v1
 ## Data source
 
 Wang H. et al. (2023). "Multistep kinetic study of Fe₂O₃ reduction
