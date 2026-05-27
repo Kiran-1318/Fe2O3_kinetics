@@ -7,6 +7,7 @@ Identification of Nonlinear Dynamics) pipeline.
 **No prior kinetic model assumed.** Both the Arrhenius parameters
 (A, Eₐ) and the reaction model f(X) are discovered simultaneously
 from sparse isothermal TGA data.
+**Preprint:** [Data-Driven Discovery of Reaction Kinetics for Fe2O3 Reduction: A Coupled Inverse PINN and SINDy Approach](https://doi.org/10.26434/chemrxiv.15003923/v1) — ChemRxiv, May 2026
 
 **Related preprint (Notebook 1 + 2):**
 [Physics-Informed Neural Networks and Operator Learning for Fe₂O₃
